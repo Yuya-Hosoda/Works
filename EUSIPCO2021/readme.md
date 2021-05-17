@@ -6,3 +6,8 @@ This work performs a phase reconstruction method for artificail bandwidth extens
 # Contents
 - Program : This folder contains scripts to perform phase reconstruction methods.
 - Example : This folder contains audio signal examples.
+
+
+____________________________________________________________________________
+All the scripts are successfully tested on MATLAB 2020a
+____________________________________________________________________________
