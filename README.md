@@ -11,9 +11,6 @@ This package contains phase reconstruction methods.
 
 ____________________________________________________________________________
 
-All the scripts are successfully tested on MATLAB 2020a
-____________________________________________________________________________
-
 # Contact information
 For any query, please contact:
 * Yuya Hosoda (hosoda at sip.sys.osaka-u.ac.jp)
