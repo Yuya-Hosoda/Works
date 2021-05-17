@@ -22,7 +22,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %	Yuya HOSODA, Arata KAWAMURA, Youji IIGUNI,                                         %
 %	"Phase Reconstruction for Artificial Bandwidth Extension toward Audio Signal,"     %
-%	EUSIPCO, pp.-, 2021.(to be accepted)                                                  %
+%	EUSIPCO, pp.-, 2021.(to be accepted)                                               %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -134,9 +134,9 @@ Iteration_time = 100;
 Output_GL = GL(Input_Amp, Input_Phase_half, Iteration_time, frame, frame_shift, Fs);
 
 
-%%%%%%%%%%%%%%%%%%%%%%%
-%   Proposed method   %
-%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%
+%   STFTPI   %
+%%%%%%%%%%%%%%
 
 % STFTPI
 Output_Phase_STFTPI_half = STFTPI(Input_Phase_half, F0_frame_all, VAD_frame_all, frame, frame_shift, Fs);
