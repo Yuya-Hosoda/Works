@@ -1,4 +1,4 @@
-7# Phase Reconstruction for Artificial Bandwidth Extension toward Musical Instrument Sound Signal
+# Phase Reconstruction for Artificial Bandwidth Extension toward Musical Instrument Sound Signal
 
 # Description:
 This work performs a phase reconstruction method for artificail bandwidth extension toward a musical instrument sound signal.
