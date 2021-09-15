@@ -13,7 +13,7 @@ This package contains my works.
     * This package contains scripts to perform a speech bandwidth extension method using data hiding based on Discrete Hartley Transform domain presented in the following publication:
 [Y. Hosoda, A. Kawamura, and Y. Iiguni, “Speech Bandwidth Extension using Data Hiding based on Discrete Hartley Transform Domain,” Circuits, Syst., Signal Process., pp.-, (under review).]
 
-3. CSSP2021
+3. APSIPA2021
     * This package contains scripts to perform a pitch estimation algorithm using phase differences between harmonics presented in the following publication:
 [Y. Hosoda, A. Kawamura, and Y. Iiguni, “Pitch Estimation Algorithm for Narrowband Speech Signal using Phase Differences between Harmonics,” in Proc. APSIPA, 2021, pp.-, (to be accepted).]
 ____________________________________________________________________________
